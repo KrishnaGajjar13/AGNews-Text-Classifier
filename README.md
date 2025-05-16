@@ -18,7 +18,7 @@ This project demonstrates fine-tuning BERT for news topic classification on the 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bert-agnews.git
+git clone [https://github.com/yourusername/bert-agnews.git](https://github.com/KrishnaGajjar13/AGNews-Text-Classifier.git)
 cd bert-agnews
 ```
 
@@ -36,7 +36,7 @@ pip install optimum[exporters] onnxruntime
 
 ### 3. Download the Fine-Tuned Model
 
-[Download the fine-tuned model here.](#) <!-- Insert your model download link here -->
+[Download the fine-tuned model here.]([#](https://www.kaggle.com/models/krishnagajjar1311/bert-news-text-classifier)) <!-- Insert your model download link here -->
 
 ### 4. Training
 
